@@ -1,0 +1,401 @@
+<head>
+  
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Trust Wallet Support Center | Wallet Assistance</title>
+
+<meta name="description" content="Find guidance for Trust Wallet app access, pending transactions, missing tokens, wallet security and common technical issues.">
+
+<meta name="robots" content="index, follow">
+
+<meta property="og:title" content="Trust Wallet Support Center">
+<meta property="og:description" content="Wallet assistance and troubleshooting guidance for app access, transactions, token visibility and security.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Wallet Support Desk">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Trust Wallet Support Center">
+<meta name="twitter:description" content="Wallet assistance, troubleshooting guidance and security information.">
+<meta property="og:image" content="https://obuaukxtqgplawykplii.supabase.co/storage/v1/object/sign/logos/a3aee0db-97cf-443b-93e4-131bc13bd98b.jpeg?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9lYjI4YzhjOC01ZGE0LTQ1YmMtOTljOC1jYzUxODhlMzc1NmQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJsb2dvcy9hM2FlZTBkYi05N2NmLTQ0M2ItOTNlNC0xMzFiYzEzYmQ5OGIuanBlZyIsInNjb3BlIjoiZG93bmxvYWQiLCJpYXQiOjE3ODM4NDAzNzUsImV4cCI6MjA5OTIwMDM3NX0.QGDlt5FWY5_Kb4jVT34BOiyQM_Rc_Quwq2McnLgEaik"><meta name="twitter:image" content="https://obuaukxtqgplawykplii.supabase.co/storage/v1/object/sign/logos/a3aee0db-97cf-443b-93e4-131bc13bd98b.jpeg?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9lYjI4YzhjOC01ZGE0LTQ1YmMtOTljOC1jYzUxODhlMzc1NmQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJsb2dvcy9hM2FlZTBkYi05N2NmLTQ0M2ItOTNlNC0xMzFiYzEzYmQ5OGIuanBlZyIsInNjb3BlIjoiZG93bmxvYWQiLCJpYXQiOjE3ODM4NDAzNzUsImV4cCI6MjA5OTIwMDM3NX0.QGDlt5FWY5_Kb4jVT34BOiyQM_Rc_Quwq2McnLgEaik"><link rel="modulepreload" href="/assets/index-Dww996IF.js"><link rel="modulepreload" href="/assets/chunk-QTnfLwEv.js"><link rel="modulepreload" href="/assets/link-CiWYB4V8.js"><link rel="modulepreload" href="/assets/matchContext-C7c66U70.js"><link rel="modulepreload" href="/assets/useRouter-taNZoCdo.js"><link rel="modulepreload" href="/assets/utils-CpT_7Qvh.js"><link rel="modulepreload" href="/assets/invariant-DEEwAagU.js"><link rel="modulepreload" href="/assets/auth-middleware-pxzCTHY2.js"><link rel="modulepreload" href="/assets/react-dom-CkYMPG8-.js"><link rel="modulepreload" href="/assets/jsx-runtime-DsKLSDJq.js"><link rel="modulepreload" href="/assets/react-xd4aoMiW.js"><link rel="modulepreload" href="/assets/w._slug-7j6Ztw5S.js"><link rel="modulepreload" href="/assets/useQuery-BjH9NljU.js"><link rel="modulepreload" href="/assets/useServerFn-lGath3_n.js"><link rel="modulepreload" href="/assets/route-recovery-B5CrdHyF.js"><link rel="modulepreload" href="/assets/w._slug-BGjVjhzt.js"><link rel="modulepreload" href="/assets/w._slug-BKQ-r6YQ.js">
+  <link rel="icon" href="https://obuaukxtqgplawykplii.supabase.co/storage/v1/object/sign/logos/a3aee0db-97cf-443b-93e4-131bc13bd98b.jpeg?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9lYjI4YzhjOC01ZGE0LTQ1YmMtOTljOC1jYzUxODhlMzc1NmQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJsb2dvcy9hM2FlZTBkYi05N2NmLTQ0M2ItOTNlNC0xMzFiYzEzYmQ5OGIuanBlZyIsInNjb3BlIjoiZG93bmxvYWQiLCJpYXQiOjE3ODM4NDAzNzUsImV4cCI6MjA5OTIwMDM3NX0.QGDlt5FWY5_Kb4jVT34BOiyQM_Rc_Quwq2McnLgEaik"><script type="text/javascript" charset="utf-8" async="" src="https://www.smartsuppchat.com/loader.js?"></script>
+  <script defer="" src="/~flock.js" data-proxy-url="/~api/analytics"></script><script defer="" src="/__l5e/events.js" data-artifact-kind="dwl_content_hash" data-artifact-id="0f6597a51ba0663db6d15611cca3f8c3ef56068438f561b2a225295b82221441" data-commit-sha="d41a1a35873c41ae9e9a8bb238b53c3ad96504aa" data-context-token="v1.eyJwcm9qZWN0X2lkIjoiODZjYWRlY2QtZGE4Yy00MDkzLWE3ZDYtOGRkOWZjYjgyNThlIiwiYXJ0aWZhY3Rfa2luZCI6ImR3bF9jb250ZW50X2hhc2giLCJhcnRpZmFjdF9pZCI6IjBmNjU5N2E1MWJhMDY2M2RiNmQxNTYxMWNjYTNmOGMzZWY1NjA2ODQzOGY1NjFiMmEyMjUyOTViODIyMjE0NDEiLCJjb21taXRfc2hhIjoiZDQxYTFhMzU4NzNjNDFhZTllOWE4YmIyMzhiNTNjM2FkOTY1MDRhYSIsImV4cCI6MTc4NDA2MDg0M30._88Kr-72a458p9UDie9LQaAJxzTZ-SwrMTK5-n7gR4c"></script><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&amp;display=swap"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+</head>
+<body>
+  <div style="" class="tw-root">
+    <style>
+    .tw-root *, .tw-root *::before, .tw-root *::after { margin:0; padding:0; box-sizing:border-box; }
+    .tw-root { --primary:#2563EB; --primary-dark:#1e51c1; --secondary:#1c4ab0; --dark:#0a1628; --dark-light:#36404f; --white:#fff; --gray:#6b7280; --gray-light:#f3f4f6; --success:#10b981;
+      font-family:'Inter',-apple-system,BlinkMacSystemFont,sans-serif; background:#fff; color:var(--dark); line-height:1.6; -webkit-font-smoothing:antialiased; min-height:100vh; }
+    .tw-root a { color:inherit; }
+    .tw-header { background:#fff; padding:12px 16px; position:sticky; top:0; z-index:1000; box-shadow:0 1px 3px rgba(0,0,0,.08); }
+    .tw-header-content { max-width:1200px; margin:0 auto; display:flex; justify-content:space-between; align-items:center; }
+    .tw-logo { display:flex; align-items:center; gap:10px; text-decoration:none; color:var(--dark); }
+    .tw-logo img { height:36px; width:auto; border-radius:8px; object-fit:contain; background:#fff; }
+    .tw-logo-text { font-weight:700; font-size:18px; }
+    .tw-logo-text span { color:var(--primary); }
+    .tw-nav { display:flex; gap:8px; }
+    .tw-nav-btn { background:var(--gray-light); border:none; padding:8px 12px; border-radius:8px; font-size:13px; color:var(--dark); cursor:pointer; }
+    .tw-nav-btn:hover { background:var(--primary); color:#fff; }
+    .tw-hero { background:linear-gradient(135deg,var(--dark) 0%,var(--dark-light) 100%); padding:50px 16px 60px; text-align:center; position:relative; overflow:hidden; }
+    .tw-hero::before { content:''; position:absolute; inset:-50%; background:radial-gradient(circle, rgba(37,99,235,0.12) 0%, transparent 50%); animation:twpulse 15s ease-in-out infinite; }
+    @keyframes twpulse { 0%,100%{transform:scale(1);} 50%{transform:scale(1.1);} }
+    .tw-hero-content { position:relative; z-index:1; max-width:600px; margin:0 auto; }
+    .tw-hero-badge { display:inline-flex; align-items:center; gap:6px; background:rgba(37,99,235,0.22); color:var(--primary); padding:6px 14px; border-radius:20px; font-size:12px; font-weight:600; margin-bottom:20px; }
+    .tw-hero h1 { color:#fff; font-size:28px; font-weight:800; margin-bottom:12px; line-height:1.3; }
+    .tw-hero p { color:rgba(255,255,255,.75); font-size:15px; margin-bottom:28px; }
+    .tw-search { background:#fff; border-radius:14px; padding:6px; display:flex; align-items:center; max-width:500px; margin:0 auto; box-shadow:0 10px 40px rgba(0,0,0,.2); }
+    .tw-search input { flex:1; border:none; padding:14px 16px; font-size:15px; outline:none; background:transparent; }
+    .tw-search-btn { background:var(--primary); color:#fff; border:none; padding:14px 24px; border-radius:10px; font-weight:600; cursor:pointer; }
+    .tw-search-btn:hover { background:var(--primary-dark); }
+    .tw-stats { display:flex; justify-content:center; gap:30px; margin-top:35px; flex-wrap:wrap; }
+    .tw-stat-num { color:#fff; font-size:22px; font-weight:800; }
+    .tw-stat-lbl { color:rgba(255,255,255,.6); font-size:12px; margin-top:2px; }
+    .tw-section { padding:35px 16px; }
+    .tw-section.alt { background:var(--gray-light); padding:30px 16px; }
+    .tw-section.dark { background:var(--dark); }
+    .tw-section-title { text-align:center; margin-bottom:24px; }
+    .tw-section-title h2 { font-size:22px; font-weight:700; color:var(--dark); margin-bottom:6px; }
+    .tw-section-title p { color:var(--gray); font-size:14px; }
+    .tw-section.dark .tw-section-title h2 { color:#fff; }
+    .tw-section.dark .tw-section-title p { color:rgba(255,255,255,.6); }
+    .tw-actions { display:grid; grid-template-columns:repeat(2,1fr); gap:12px; max-width:500px; margin:0 auto; }
+    .tw-action-card { background:#fff; padding:20px 16px; border-radius:14px; text-align:center; text-decoration:none; color:var(--dark); transition:.3s; border:1px solid rgba(0,0,0,.05); display:block; }
+    .tw-action-card:hover { transform:translateY(-3px); box-shadow:0 10px 30px rgba(0,0,0,.1); }
+    .tw-action-icon { width:50px; height:50px; background:linear-gradient(135deg,var(--primary),var(--secondary)); border-radius:12px; display:flex; align-items:center; justify-content:center; margin:0 auto 12px; }
+    .tw-action-icon i { font-size:22px; color:#fff; }
+    .tw-action-card h3 { font-size:14px; font-weight:600; margin-bottom:4px; }
+    .tw-action-card p { font-size:12px; color:var(--gray); }
+    .tw-issues { max-width:500px; margin:0 auto; }
+    .tw-issue { display:flex; align-items:center; gap:14px; padding:16px; background:#fff; border:1px solid rgba(0,0,0,.08); border-radius:12px; margin-bottom:10px; text-decoration:none; color:var(--dark); }
+    .tw-issue:hover { border-color:var(--primary); background:rgba(37,99,235,0.04); }
+    .tw-issue-icon { width:42px; height:42px; background:var(--gray-light); border-radius:10px; display:flex; align-items:center; justify-content:center; flex-shrink:0; }
+    .tw-issue-icon i { font-size:18px; color:var(--primary); }
+    .tw-issue h4 { font-size:14px; font-weight:600; margin-bottom:2px; }
+    .tw-issue p { font-size:12px; color:var(--gray); }
+    .tw-issue .tw-arrow { margin-left:auto; color:var(--gray); }
+    .tw-team-slider { max-width:520px; margin:0 auto; overflow-x:auto; scroll-snap-type:x mandatory; display:flex; gap:14px; padding-bottom:10px; -webkit-overflow-scrolling:touch; }
+    .tw-team-slider::-webkit-scrollbar { display:none; }
+    .tw-team-card { min-width:280px; background:var(--dark-light); padding:22px; border-radius:16px; scroll-snap-align:start; border:1px solid rgba(255,255,255,.1); }
+    .tw-team-head { display:flex; align-items:center; gap:12px; margin-bottom:14px; }
+    .tw-team-avatar { width:50px; height:50px; border-radius:50%; object-fit:cover; background:#fff; }
+    .tw-team-info h4 { color:#fff; font-size:14px; font-weight:600; }
+    .tw-team-info p { color:rgba(255,255,255,.55); font-size:12px; }
+    .tw-team-rating { display:flex; gap:3px; margin-bottom:10px; color:#f59e0b; font-size:12px; }
+    .tw-team-text { color:rgba(255,255,255,.85); font-size:13px; font-style:italic; margin-bottom:10px; line-height:1.5; }
+    .tw-verified { display:inline-flex; align-items:center; gap:5px; color:var(--success); font-size:11px; font-weight:600; }
+    .tw-contact-list { max-width:500px; margin:0 auto; display:grid; gap:10px; }
+    .tw-contact { display:flex; align-items:center; gap:14px; padding:16px; background:#fff; border:1px solid rgba(0,0,0,.08); border-radius:12px; text-decoration:none; color:var(--dark); }
+    .tw-contact:hover { border-color:var(--primary); }
+    .tw-contact-icon { width:44px; height:44px; border-radius:10px; display:flex; align-items:center; justify-content:center; color:#fff; flex-shrink:0; }
+    .tw-contact-icon.live { background:var(--success); }
+    .tw-contact-icon.wa { background:#25D366; }
+    .tw-contact-icon.tg { background:#0088cc; }
+    .tw-contact-icon.ig { background:#E1306C; }
+    .tw-contact h4 { font-size:14px; font-weight:600; }
+    .tw-contact p { font-size:12px; color:var(--gray); }
+    .tw-badge-online { margin-left:auto; background:rgba(16,185,129,0.15); color:#10b981; padding:4px 10px; border-radius:12px; font-size:11px; font-weight:600; }
+    .tw-trust-grid { display:grid; grid-template-columns:repeat(4,1fr); gap:14px; max-width:500px; margin:0 auto; }
+    .tw-trust-item { text-align:center; padding:16px 8px; background:#fff; border-radius:12px; border:1px solid rgba(0,0,0,.06); }
+    .tw-trust-item i { color:var(--primary); font-size:22px; margin-bottom:6px; display:block; }
+    .tw-trust-item p { font-size:11px; font-weight:600; color:var(--dark); }
+    .tw-faq-list { max-width:500px; margin:0 auto; }
+    .tw-faq-item { background:#fff; border:1px solid rgba(0,0,0,.08); border-radius:12px; margin-bottom:10px; overflow:hidden; }
+    .tw-faq-q { width:100%; background:none; border:none; padding:16px; display:flex; justify-content:space-between; align-items:center; font-size:14px; font-weight:600; color:var(--dark); cursor:pointer; text-align:left; font-family:inherit; }
+    .tw-faq-q i { transition:transform .2s; color:var(--gray); }
+    .tw-faq-item.open .tw-faq-q i { transform:rotate(180deg); color:var(--primary); }
+    .tw-faq-a { max-height:0; overflow:hidden; transition:max-height .25s ease; }
+    .tw-faq-item.open .tw-faq-a { max-height:300px; }
+    .tw-faq-a p { padding:0 16px 16px; color:var(--gray); font-size:13px; line-height:1.6; }
+    .tw-about { max-width:500px; margin:0 auto; }
+    .tw-about-card { background:#fff; padding:24px; border-radius:14px; border:1px solid rgba(0,0,0,.06); }
+    .tw-about-card h3 { font-size:18px; margin-bottom:8px; color:var(--dark); }
+    .tw-about-card > p { color:var(--gray); font-size:13px; margin-bottom:16px; }
+    .tw-about-feats { display:grid; grid-template-columns:repeat(2,1fr); gap:10px; }
+    .tw-about-feat { display:flex; align-items:center; gap:8px; font-size:13px; font-weight:500; color:var(--dark); }
+    .tw-about-feat i { color:var(--primary); }
+    .tw-footer { background:var(--dark); padding:30px 16px 20px; color:#fff; text-align:center; }
+    .tw-footer-logo { display:flex; align-items:center; justify-content:center; gap:10px; margin-bottom:14px; }
+    .tw-footer-logo img { height:32px; border-radius:6px; }
+    .tw-footer-logo span { font-weight:700; }
+    .tw-footer-bottom { padding-top:16px; border-top:1px solid rgba(255,255,255,.1); font-size:12px; color:rgba(255,255,255,.5); margin-top:14px; }
+    .tw-fab { position:fixed; bottom:24px; right:20px; width:60px; height:60px; background:linear-gradient(135deg,var(--primary),var(--secondary)); border-radius:50%; display:flex; align-items:center; justify-content:center; color:#fff; font-size:26px; box-shadow:0 6px 20px rgba(37,99,235,0.45); cursor:pointer; z-index:9999; animation:twbounce 2s infinite; text-decoration:none; }
+    .tw-fab:hover { transform:scale(1.08); }
+    @keyframes twbounce { 0%,100%{transform:translateY(0);} 50%{transform:translateY(-8px);} }
+    .tw-fab-dot { position:absolute; top:-2px; right:-2px; width:16px; height:16px; background:var(--success); border-radius:50%; border:2px solid #fff; }
+    @media (max-width:380px) { .tw-hero h1 { font-size:24px; } .tw-actions { grid-template-columns:1fr; } .tw-trust-grid { grid-template-columns:repeat(2,1fr); } .tw-about-feats { grid-template-columns:1fr; } }
+  </style>
+  <header class="tw-header">
+    <div class="tw-header-content">
+      <a href="#top" class="tw-logo"><img alt="Trust wallet supporter" src="https://obuaukxtqgplawykplii.supabase.co/storage/v1/object/sign/logos/a3aee0db-97cf-443b-93e4-131bc13bd98b.jpeg?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9lYjI4YzhjOC01ZGE0LTQ1YmMtOTljOC1jYzUxODhlMzc1NmQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJsb2dvcy9hM2FlZTBkYi05N2NmLTQ0M2ItOTNlNC0xMzFiYzEzYmQ5OGIuanBlZyIsInNjb3BlIjoiZG93bmxvYWQiLCJpYXQiOjE3ODM4NDAzNzUsImV4cCI6MjA5OTIwMDM3NX0.QGDlt5FWY5_Kb4jVT34BOiyQM_Rc_Quwq2McnLgEaik"><span class="tw-logo-text">Trust wallet supporter</span></a><nav class="tw-nav"><button class="tw-nav-btn" aria-label="Language"><i class="fas fa-globe"></i></button>
+        <button class="tw-nav-btn" aria-label="Menu"><i class="fas fa-bars"></i></button>
+      </nav>
+    </div>
+    </header>
+      <section class="tw-hero" id="top">
+        <div class="tw-hero-content">
+          <div class="tw-hero-badge"><i class="fas fa-headset"></i>24/7 Support Available</div>
+          <h1>How Can We Help You Today?</h1><p>Get instant support for Trust wallet supporter. Our team is here to assist you with any questions or issues.</p>
+          <div class="tw-search">
+            <input placeholder="Search for help..." type="text">
+            <button class="tw-search-btn"><i class="fas fa-search"></i></button>
+          </div><div class="tw-stats">
+            <div>
+              <div class="tw-stat-num">60K+</div>
+              <div class="tw-stat-lbl">Users Worldwide</div>
+            </div>
+            <div>
+              <div class="tw-stat-num">4.9★</div>
+              <div class="tw-stat-lbl">Avg. Rating</div></div>
+              <div><div class="tw-stat-num">99.9%</div>
+              <div class="tw-stat-lbl">Uptime</div></div>
+            </div></div>
+          </section>
+            <section class="tw-section alt">
+              <div class="tw-section-title"><h2>Quick Support</h2><p>Select a topic to get started</p></div>
+              <div class="tw-actions"><a href="#" target="_self" rel="noreferrer" class="tw-action-card">
+                <div class="tw-action-icon"><i class="fas fa-life-ring"></i></div>
+                <h3>Get Started</h3><p>New here? Start here</p></a>
+                <a href="#" target="_self" rel="noreferrer" class="tw-action-card">
+                  <div class="tw-action-icon"><i class="fas fa-exchange-alt"></i></div>
+                  <h3>Account Issues</h3><p>Login &amp; access</p></a>
+                  <a href="#" target="_self" rel="noreferrer" class="tw-action-card">
+                    <div class="tw-action-icon"><i class="fas fa-shield-alt"></i></div>
+                    <h3>Security Center</h3><p>Protect your account</p></a><a href="#" target="_self" rel="noreferrer" class="tw-action-card">
+                      <div class="tw-action-icon"><i class="fas fa-headset"></i></div><h3>Talk to an Agent</h3><p>Live support</p></a></div>
+                    </section>
+                    
+<style>
+/* Premium App Download Section */
+.tw-app-download {
+  padding: 65px 20px;
+  background: linear-gradient(135deg, #08172c, #102c50);
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+  color: #fff;
+}
+
+.tw-app-download::before {
+  content: "";
+  position: absolute;
+  width: 350px;
+  height: 350px;
+  border-radius: 50%;
+  background: rgba(37,99,235,.15);
+  filter: blur(70px);
+  top: -160px;
+  right: -100px;
+}
+
+.tw-app-inner {
+  position: relative;
+  max-width: 850px;
+  margin: auto;
+}
+
+.tw-app-label {
+  display: inline-block;
+  padding: 7px 15px;
+  border: 1px solid rgba(255,255,255,.18);
+  border-radius: 30px;
+  color: #93c5fd;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  margin-bottom: 18px;
+}
+
+.tw-app-download h2 {
+  color: #fff;
+  font-size: 30px;
+  font-weight: 800;
+  margin-bottom: 12px;
+}
+
+.tw-app-description {
+  max-width: 520px;
+  margin: 0 auto 32px;
+  color: #bdcce0;
+  font-size: 14px;
+  line-height: 1.8;
+}
+
+.tw-app-cards {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+  max-width: 650px;
+  margin: auto;
+}
+
+.tw-app-card {
+  display: flex;
+  align-items: center;
+  text-align: left;
+  gap: 15px;
+  padding: 22px 20px;
+  background: rgba(255,255,255,.07);
+  border: 1px solid rgba(255,255,255,.13);
+  border-radius: 17px;
+  color: #fff !important;
+  text-decoration: none;
+  transition: .25s ease;
+}
+
+.tw-app-card:hover {
+  background: rgba(255,255,255,.13);
+  border-color: #60a5fa;
+  transform: translateY(-4px);
+}
+
+.tw-app-icon {
+  width: 55px;
+  height: 55px;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 14px;
+  background: #fff;
+  color: #111827;
+  font-size: 28px;
+}
+
+.tw-app-info small {
+  display: block;
+  font-size: 11px;
+  color: #a9bdd5;
+  margin-bottom: 3px;
+}
+
+.tw-app-info strong {
+  display: block;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.tw-app-info span {
+  display: block;
+  color: #60a5fa;
+  font-size: 11px;
+  margin-top: 5px;
+}
+
+.tw-app-arrow {
+  margin-left: auto;
+  color: #93c5fd;
+  font-size: 17px;
+}
+
+.tw-app-note {
+  color: #91a5bf;
+  font-size: 11px;
+  margin-top: 24px;
+  line-height: 1.7;
+}
+
+@media(max-width:520px) {
+  .tw-app-download {
+    padding: 48px 16px;
+  }
+
+  .tw-app-download h2 {
+    font-size: 25px;
+  }
+
+  .tw-app-cards {
+    grid-template-columns: 1fr;
+  }
+
+  .tw-app-card {
+    padding: 19px;
+  }
+}
+</style>
+
+<section class="tw-app-download">
+  <div class="tw-app-inner">
+
+    <div class="tw-app-label">
+      MOBILE APP DOWNLOAD
+    </div>
+
+    <h2>Take Your Wallet Anywhere</h2>
+
+    <p class="tw-app-description">
+      Access the official Trust Wallet mobile application.
+      Choose your device below to visit its official app store listing.
+    </p>
+
+    <div class="tw-app-cards">
+
+      <a class="tw-app-card"
+         href="https://apps.apple.com/app/apple-store/id1288339409"
+         target="_blank"
+         rel="noopener noreferrer">
+
+        <div class="tw-app-icon">
+          <i class="fab fa-apple"></i>
+        </div>
+
+        <div class="tw-app-info">
+          <small>AVAILABLE ON</small>
+          <strong>App Store</strong>
+          <span>Download for iPhone</span>
+        </div>
+
+        <i class="fas fa-arrow-up-right-from-square tw-app-arrow"></i>
+      </a>
+
+      <a class="tw-app-card"
+         href="https://play.google.com/store/apps/details?id=com.wallet.crypto.trustapp"
+         target="_blank"
+         rel="noopener noreferrer">
+
+        <div class="tw-app-icon">
+          <i class="fab fa-google-play"></i>
+        </div>
+
+        <div class="tw-app-info">
+          <small>AVAILABLE ON</small>
+          <strong>Google Play</strong>
+          <span>Download for Android</span>
+        </div>
+
+        <i class="fas fa-arrow-up-right-from-square tw-app-arrow"></i>
+      </a>
+
+    </div>
+
+    <p class="tw-app-note">
+      Always verify the publisher before installing an application.
+      Never share your recovery phrase or private keys.
+      This website is independently operated and is not affiliated
+      with Trust Wallet.
+    </p>
+
+  </div>
+</section>
+
+                    <section class="tw-section"><div class="tw-section-title"><h2>Common Issues</h2><p>Frequently reported problems</p></div><div class="tw-issues"><a href="#" target="_self" rel="noreferrer" class="tw-issue"><div class="tw-issue-icon"><i class="fas fa-key"></i></div><div><h4>Login Problems</h4><p>Can't sign in</p></div><i class="fas fa-chevron-right tw-arrow"></i></a><a href="#" target="_self" rel="noreferrer" class="tw-issue"><div class="tw-issue-icon"><i class="fas fa-clock"></i></div><div><h4>Pending Request</h4><p>Stuck transactions</p></div><i class="fas fa-chevron-right tw-arrow"></i></a><a href="#" target="_self" rel="noreferrer" class="tw-issue"><div class="tw-issue-icon"><i class="fas fa-eye-slash"></i></div><div><h4>Missing Info</h4><p>Data not showing</p></div><i class="fas fa-chevron-right tw-arrow"></i></a><a href="#" target="_self" rel="noreferrer" class="tw-issue"><div class="tw-issue-icon"><i class="fas fa-link"></i></div><div><h4>Connection Issues</h4><p>App not loading</p></div><i class="fas fa-chevron-right tw-arrow"></i></a></div></section><section class="tw-section alt"><div class="tw-section-title"><h2>About Trust wallet supporter</h2><p>Trusted support, every day</p></div><div class="tw-about"><div class="tw-about-card"><h3>We're here for you</h3><p>Trust wallet supporter provides reliable, friendly support so you can get back to what matters. Reach out anytime using the options below.</p><div class="tw-about-feats"><div class="tw-about-feat"><i class="fas fa-lock"></i><span>Secure</span></div><div class="tw-about-feat"><i class="fas fa-bolt"></i><span>Fast Reply</span></div><div class="tw-about-feat"><i class="fas fa-user-shield"></i><span>Verified Agents</span></div><div class="tw-about-feat"><i class="fas fa-globe"></i><span>Worldwide</span></div></div></div></div></section><section class="tw-section"><div class="tw-trust-grid"><div class="tw-trust-item"><i class="fas fa-shield-alt"></i><p>Bank-Level Security</p></div><div class="tw-trust-item"><i class="fas fa-user-check"></i><p>60,000+ Users</p></div><div class="tw-trust-item"><i class="fas fa-award"></i><p>Top Rated</p></div><div class="tw-trust-item"><i class="fas fa-headset"></i><p>24/7 Support</p></div></div></section><section class="tw-section alt"><div class="tw-section-title"><h2>Contact Support</h2><p>Choose how you'd like to reach us</p></div><div class="tw-contact-list"><a href="#" class="tw-contact"><div class="tw-contact-icon live"><i class="fas fa-comments"></i></div><div><h4>Live Chat Support</h4><p>Get instant help from our team</p></div><span class="tw-badge-online">Online</span></a></div></section><section class="tw-section"><div class="tw-section-title"><h2>Frequently Asked Questions</h2><p>Quick answers to common questions</p></div><div class="tw-faq-list"><div class="tw-faq-item open"><button class="tw-faq-q">How do I contact Trust wallet supporter support?<i class="fas fa-chevron-down"></i></button><div class="tw-faq-a"><p>Our live support team is available 24/7. Use the live chat button below or message us on WhatsApp/Telegram.</p></div></div><div class="tw-faq-item "><button class="tw-faq-q">How fast will I get a reply?<i class="fas fa-chevron-down"></i></button><div class="tw-faq-a"><p>Live chat replies are typically within 1–2 minutes. WhatsApp and Telegram within 10 minutes.</p></div></div><div class="tw-faq-item "><button class="tw-faq-q">Is this support service free?<i class="fas fa-chevron-down"></i></button><div class="tw-faq-a"><p>Yes — talking to our support team costs nothing.</p></div></div><div class="tw-faq-item "><button class="tw-faq-q">Are my conversations private?<i class="fas fa-chevron-down"></i></button><div class="tw-faq-a"><p>Yes. All conversations with our agents are confidential and encrypted.</p></div></div></div></section><footer class="tw-footer"><div class="tw-footer-logo"><img alt="Trust wallet supporter" src="https://obuaukxtqgplawykplii.supabase.co/storage/v1/object/sign/logos/a3aee0db-97cf-443b-93e4-131bc13bd98b.jpeg?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9lYjI4YzhjOC01ZGE0LTQ1YmMtOTljOC1jYzUxODhlMzc1NmQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJsb2dvcy9hM2FlZTBkYi05N2NmLTQ0M2ItOTNlNC0xMzFiYzEzYmQ5OGIuanBlZyIsInNjb3BlIjoiZG93bmxvYWQiLCJpYXQiOjE3ODM4NDAzNzUsImV4cCI6MjA5OTIwMDM3NX0.QGDlt5FWY5_Kb4jVT34BOiyQM_Rc_Quwq2McnLgEaik"><span>Trust wallet supporter</span></div><p style="font-size: 13px; color: rgba(255, 255, 255, 0.7);">Official support · Available 24/7</p>
+    
+  <div data-testid="widgetButtonFrame" style="border-radius: 9999px; box-shadow: rgba(0, 0, 0, 0.06) 0px 1px 6px, rgba(0, 0, 0, 0.12) 0px 2px 32px; color-scheme: normal; height: 56px; position: fixed; bottom: 24px; left: initial; right: 12px; z-index: 10000000; width: 109px;">
+    <iframe allowfullscreen="" scrolling="no" id="widgetButtonFrame" title="Smartsupp widget button" style="position: absolute; width: 100%; height: 100%; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; display: block; text-align: left; margin: 0px; padding: 0px; top: 0px; left: 0px; opacity: 1;"></iframe><!----></div><!----> <!----><!----> <!----><!----><!----></div>
+    
+<!-- Smartsupp Live Chat script -->
+<script type="text/javascript">
+var _smartsupp = _smartsupp || {};
+_smartsupp.key = '67f41da521929fcb381126193a405b66731b8597';
+window.smartsupp||(function(d) {
+  var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
+  s=d.getElementsByTagName('script')[0];c=d.createElement('script');
+  c.type='text/javascript';c.charset='utf-8';c.async=true;
+  c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
+})(document);
+</script>
+<noscript>Powered by <a href="https://www.smartsupp.com" target="_blank">Smartsupp</a></noscript>
+
+
+
+</body>
